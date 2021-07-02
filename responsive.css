@@ -1,0 +1,260 @@
+@media (max-width:1837px) and (min-width:1466px){
+   /*  .container{
+        width: 104%;
+    }
+    /* hero */
+
+    #hero{
+        width: 129%;
+    }
+    #hero .hero {
+
+        margin-left: 118px;
+
+    }
+    /* end hero */
+    /* services */
+    #services{
+        width: 129%;
+    }
+    /* end services */
+    /* projects */
+    #projects{
+        width: 129%;
+    }
+    /* end projects */
+    /* about */
+    #about{
+        width: 129%;
+    }
+    /* end about */
+    /* contact */
+    #contact{
+        width: 129%;
+    }
+    /* end contact */
+    /* footer */
+    #footer{
+        width: 129%;
+    }
+    /* end footer */
+}
+@media (max-width:1465px) and (min-width:1000px){
+     /* hero */
+
+     #hero{
+        width: 183%;
+    }
+    #hero .hero {
+
+        margin-left: 118px;
+
+    }
+    /* end hero */
+    /* services */
+    #services{
+        width: 183%;
+    }
+    /* end services */
+    /* projects */
+    #projects{
+        width: 183%;
+    }
+    /* end projects */
+    /* about */
+    #about{
+        width: 183%;
+    }
+    /* end about */
+    /* contact */
+    #contact{
+        width: 183%;
+    }
+    /* end contact */
+    /* footer */
+    #footer{
+        width: 183%;
+    }
+    /* end footer */
+}
+@media (max-width:999px) and (min-width:700px){
+    /* hero */
+
+    #hero{
+       width: 265%;
+   }
+   #hero .hero {
+
+       margin-left: 118px;
+
+   }
+   /* end hero */
+   /* services */
+   #services{
+    width: 262%;
+   }
+   /* end services */
+   /* projects */
+   #projects{
+    width: 262%;
+   }
+   /* end projects */
+   /* about */
+   #about{
+    width: 262%;
+   }
+   /* end about */
+   /* contact */
+   #contact{
+    width: 262%;
+   }
+   /* end contact */
+   /* footer */
+   #footer{
+    width: 265%;
+   }
+   /* end footer */
+}
+@media (max-width:699px) and (min-width:400px){
+    body{
+        width: 101%;
+    }
+    /* hero */
+
+    #hero{
+       width: 336%;
+   }
+   #hero .hero {
+
+       margin-left: 118px;
+
+   }
+   /* end hero */
+   /* services */
+   #services{
+    width: 336%;
+   }
+   /* end services */
+   /* projects */
+   #projects{
+    width: 336%;
+   }
+   #projects .all-projects{
+       width: 116%;
+   }
+   /* end projects */
+   /* about */
+   #about{
+    width: 336%;
+   }
+   /* end about */
+   /* contact */
+   #contact{
+    width: 336%;
+   }
+   /* end contact */
+   /* footer */
+   #footer{
+    width: 336%;
+   }
+   /* end footer */
+}
+@media (max-width:399px) and (min-width:300px) {
+    /* body{
+        width: 147%;
+    } */
+    .section-title{
+        font-size: 2rem;
+    }
+    #services p{
+        margin: 10px 20px;
+    }
+    #services .service-item {
+        flex-basis: 80%;
+    }
+
+    /* hero */
+
+    #hero{
+       width: 241%;
+   }
+   #hero .hero {
+
+       margin-left: 118px;
+
+   }
+   #hero h1{
+       font-size: 2rem;
+   }
+   /* end hero */
+   /* services */
+   #services{
+    width: 241%;
+   }
+   /* end services */
+   /* projects */
+   #projects{
+    width: 241%;
+    margin-bottom: 600px;
+   }
+   #projects .all-projects{
+       width: 116%;
+   }
+   #projects .project-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 65%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 40px;
+    height: 472px;
+}
+#projects img {
+    height: 197px;
+    width: 466px;
+}
+   /* end projects */
+   /* about */
+   #about{
+    width: 241%;
+   }
+   #about .col-right .cta {
+       width: 47%;
+   }
+   #about .col-left img {
+    width: 302px;
+    height: 477px;
+}
+   /* end about */
+   /* contact */
+   #contact{
+    width: 241%;
+   }
+   #contact .contact-item {
+       margin: 0px;
+       margin-bottom: 20px;
+       margin-left: 60px;
+       margin-right: 0px;
+   }
+   #contact .contact-items{
+       padding: 0px;
+   }
+   #contact h2{
+       font-size: 1.5rem;
+   }
+   /* end contact */
+   /* footer */
+   #footer{
+    width: 241%;
+   }
+   .brand h1{
+       margin-left: 26px;
+   }
+   #footer .social-icon {
+   
+    margin-left: 67px;
+}
+   /* end footer */
+}
